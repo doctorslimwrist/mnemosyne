@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Mnemosyne
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a page for storing memories. Aid yourself in active recall.
