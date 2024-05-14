@@ -28,12 +28,12 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 2,
-    scale: 1.8,
-    repelForce: 0.5,
-    centerForce: 0.3,
-    linkDistance: 30,
-    fontSize: 0.6,
+    depth: 3,
+    scale: 1.6,
+    repelForce: 0.3,
+    centerForce: 0.6,
+    linkDistance: 25,
+    fontSize: 0.4,
     opacityScale: 1,
     showTags: true,
     removeTags: [],
@@ -88,11 +88,12 @@ export default ((opts?: GraphOptions) => {
           </svg>
 
         </div>
+
         <div id="global-graph-outer">
-          
+
           <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
+
         </div>
-        <h3 style="text-align: center; font-weight: 100">Mnemosyne</h3>
 
       </div>
     )

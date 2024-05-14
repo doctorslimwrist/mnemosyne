@@ -15,14 +15,14 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "schneider7.github.io/mnemosyne",
+    baseUrl: "doctorslimwrist.github.io/mnemosyne",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
       cdnCaching: true,
       typography: {
-        header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
+        header: "Lora",
+        body: "Montserrat",
         code: "IBM Plex Mono",
       },
       colors: {

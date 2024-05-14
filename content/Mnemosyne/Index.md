@@ -4,7 +4,6 @@ longform:
   title: Mnemosyne
   workflow: Default Workflow
   sceneFolder: /
-  scenes:
-    - Introduction
+  scenes: []
   ignoredFiles: []
 ---
