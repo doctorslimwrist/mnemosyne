@@ -1,3 +1,3 @@
 # Mnemosyne
-For aiding in active recall. There's a case for doing it in public.
+You have invoked Mnemosyne. Diligent patronage will be rewarded.
 
