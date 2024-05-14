@@ -94,7 +94,6 @@ export default ((opts?: GraphOptions) => {
           <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
 
         </div>
-
       </div>
     )
   }

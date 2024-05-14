@@ -6,13 +6,15 @@
     margin: 0;
   }
 
+
   & > .graph-outer {
-    border-radius: 5px;
-    border: 5px solid var(--secondary);
+    border-radius: 1em;
+   border: 8px solid var(--secondary);
     box-sizing: border-box;
     margin: 0.5em 0;
-    position: relative;
+position: relative;
     overflow: hidden;
+    box-shadow: 5px 6px 50px var(--secondary);
 
     & > #global-graph-icon {
       color: var(--dark);
