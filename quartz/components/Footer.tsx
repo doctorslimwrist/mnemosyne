@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        Forests contain more than you think.
+        The answer is sitting deeper than you think.
       </footer>
     )
   }
