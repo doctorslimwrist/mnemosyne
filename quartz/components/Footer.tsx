@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
 
       <footer class={`${displayClass ?? ""}`}>
         <hr></hr>
-        The answer is sitting deeper than you think.
+      The answer is sitting deeper than you think.
       </footer>
     )
   }
