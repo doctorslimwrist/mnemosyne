@@ -27,12 +27,12 @@ interface GraphOptions {
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
-    zoom: false,
+    zoom: true,
     depth: 3,
     scale: 1.8,
     repelForce: 0.3,
-    centerForce: 0.6,
-    linkDistance: 25,
+    centerForce: 0.9,
+    linkDistance: 20,
     fontSize: 0.4,
     opacityScale: 1,
     showTags: true,
@@ -61,14 +61,6 @@ export default ((opts?: GraphOptions) => {
       <div class={classNames(displayClass, "graph")}>
         <div class="graph-outer">
           <div id="graph-container" data-cfg={JSON.stringify(localGraph)}></div>
- 
-
-        </div>
-
-        <div id="global-graph-outer">
-
-          <div id="global-graph-container" data-cfg={JSON.stringify(globalGraph)}></div>
-
         </div>
       </div>
     )

@@ -89,8 +89,8 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
         wl.push("__SENTINEL")
       } else {
         neighbourhood.add(cur)
-        const outgoing = links.filter((l) => l.source === cur)
-        const incoming = links.filter((l) => l.target === cur)
+        const outgoing  = links.filter((l) => l.source === cur)
+        const incoming  = links.filter((l) => l.target === cur)
         wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
       }
     }
@@ -141,7 +141,7 @@ async function renderGraph(container: string, fullSlug: FullSlug) {
     .join("line")
     .attr("class", "link")
     .attr("stroke", "var(--lightgray)")
-    .attr("stroke-width", 1)
+    .attr("stroke-width", 1.2)
 
   // svg groups
   const graphNode = svg.append("g").selectAll("g").data(graphData.nodes).enter().append("g")

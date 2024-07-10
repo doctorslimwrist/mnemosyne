@@ -18,8 +18,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
   ],
-  right: [    Component.MobileOnly(Component.Graph()),
-
+  right: [    
+    Component.MobileOnly(Component.Graph()),
   ],
 }
 
