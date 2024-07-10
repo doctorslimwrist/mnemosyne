@@ -27,9 +27,9 @@ interface GraphOptions {
 const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
-    zoom: true,
+    zoom: false,
     depth: 3,
-    scale: 1.6,
+    scale: 1.2,
     repelForce: 0.3,
     centerForce: 0.6,
     linkDistance: 25,

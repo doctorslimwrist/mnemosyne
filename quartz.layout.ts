@@ -14,13 +14,12 @@ links: {}
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
     Component.ArticleTitle(),
-    Component.MobileOnly(Component.Graph()),
 
   ],
   left: [
-    Component.DesktopOnly(Component.Graph()),
   ],
-  right: [
+  right: [    Component.MobileOnly(Component.Graph()),
+
   ],
 }
 
