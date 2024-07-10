@@ -1,0 +1,3 @@
+It does seem weird, I think. I've got the only thing there is, which is right now. A long string of observations in rapid succession have given me a stream of reference points, but when each of them happened, it was right now. Right now...
+
+[[Did I construct my memory?]]
