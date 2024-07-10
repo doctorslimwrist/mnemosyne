@@ -29,7 +29,7 @@ const defaultOptions: GraphOptions = {
     drag: true,
     zoom: false,
     depth: 3,
-    scale: 1.2,
+    scale: 1.8,
     repelForce: 0.3,
     centerForce: 0.6,
     linkDistance: 25,
