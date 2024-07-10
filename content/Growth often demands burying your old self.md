@@ -1,1 +1,0 @@
-This is something I feel is poorly understood by those who are not transgender. The identification comes first: you realize there is a missing part. But finding the missing part is also an act of destruction. There will be nothing left when you are done [[cleansing yourself by fire]]. 

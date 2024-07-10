@@ -1,1 +1,0 @@
-To change in this way is to give up all notions of permanence. You're destroying your former self in service of a higher one, [[cleansing yourself by fire]] in a way. It takes immense courage to do that to your self.  [[Growth often demands burying your old self]]

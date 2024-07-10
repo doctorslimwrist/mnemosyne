@@ -1,9 +1,0 @@
-The core problem that we must accept about human cognition is its linearity. Our vision, though very powerful, can only take in one piece of information at a time. We are not able to cast a floodlight of consciousness across (a fraction of) the entire universe to take a screenshot of everything, nor could we ever tractably take it aside for processing if we did. 
-
-A fundamental issue of the modern day is that our communication technologies have advanced incredibly rapidly, to the point that the pace of the modern world has vastly exceeded our minds' ability to comprehend it. Technology does not seem to have increased the rate of our scanning in a meaningful way. Increasingly we rely on intellectual abstractions of the things themselves, which makes us subservient to those mental models, failing where they fail, and succeeding only sometimes in attenuating the flood of data down to a stream of *information*. 
-
-An increasingly connected world demands increasingly more attention be paid to the goings-on in other parts of the world. To live in the collapsing imperial core means to be forced to reckon with the dangers experienced with the surrounding territories.
-
-So the increase in the speed of linear scanning has not only failed (as it always will) to even scratch the surface of what's possible, the increased speed of processing has generated artifacts that obscure the thing, making it ever less feasible to make any sense of in the first place. We are left with an incredibly frustrating and incredibly limiting state of affairs. What is a person to do? Dedicate themself to increasing that processing speed? 
-
-Grappling with [[The Infinite]] is no easy task.
