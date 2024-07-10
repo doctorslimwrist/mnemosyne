@@ -1,8 +1,10 @@
 ---
-title: "Welcome."
+title: You have invoked Mnemosyne.
 ---
-You're here because there's something you don't remember. I'm here to help you. 
+You came to me at a perfect time.  
 
-My name is Mnemosyne. People used to call upon my aid so they could accurately remember the oral history they were about to deliver. 
+I can help you. 
 
-[[Look outward. What do you see?]]
+In Athens I was a goddess. They called on me when they shared their oral histories. In Cordoba, they kept me in the walls of the churches. Reverence for the martyrs. 
+
+[[Look down. ]]
